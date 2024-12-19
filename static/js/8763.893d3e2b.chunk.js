@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkweb_pos=self.webpackChunkweb_pos||[]).push([[8763],{48763:(e,s,t)=>{t.r(s),t.d(s,{default:()=>p});var u=t(65043),c=t(79456),n=t(38379),f=t(78926),o=t(70579);const p=function(){const e=(0,c.wA)();return(0,u.useEffect)((()=>{e((0,n.wE)({title:"People | User |"}))}),[]),(0,o.jsx)(f.A,{})}}}]);
+//# sourceMappingURL=8763.893d3e2b.chunk.js.map

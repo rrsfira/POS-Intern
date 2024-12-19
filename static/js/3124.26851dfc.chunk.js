@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkweb_pos=self.webpackChunkweb_pos||[]).push([[3124],{3124:(e,s,t)=>{t.r(s),t.d(s,{default:()=>a});var u=t(65043),c=t(79456),f=t(38379),n=t(39840),w=t(70579);const a=function(){const e=(0,c.wA)();return(0,u.useEffect)((()=>{e((0,f.wE)({title:"POS"}))}),[]),(0,w.jsx)(n.default,{})}}}]);
+//# sourceMappingURL=3124.26851dfc.chunk.js.map
